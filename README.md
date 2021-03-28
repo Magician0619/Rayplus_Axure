@@ -2,6 +2,8 @@
 **Rayplus系统影像部分原型**
 @ Copyright 2021 by Magician
 
+！！！涉及到机密保护等原因，后续开发维护将托管在GitLab上，此仓库暂停
+
 注意事项：
 
 1. 使用谷歌浏览器预览，若网页无法正常打开，请安装[插件](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp)
